@@ -1,5 +1,5 @@
-
-# **FAILURES TO ACT**
+### Tarea 1
+# Título: **FAILURES TO ACT**
 #### **https://ydcpodcast.org/**
 
 ## **Descripción**
@@ -7,7 +7,7 @@ Esta historia web basada en datos trata sobre los abusos cometidos por el person
 
 Desde 2020, cerca de **1300 personas** han presentado demandas alegando haber sido abusados cuando eran niños entre **1960 y 2021**, en alguno de los establecimientos anteriormente mencionados. Los abusos cometidos habrían consistido desde estrangulamientos o ahogamientos a violaciones, entre otras vejaciones, llegando a afectar fuertemente la vida de varias de las víctimas.
 
-## **Lo interesante y aspectos destacados**
+## **Rasgos interesantes y aspectos destacados**
 La webstory me pareció sumamente interesante porque presenta una gran magnitud de datos y análisis de una forma visualmente muy atractiva sobre un tema que a mi juicio tiene una relevancia enorme y que no es suficiente hablado o tratado y menos de manera tan completa, como es el tema de los abusos en un lugar que se supone debería ayudar a los jóvenes a reformarse. 
 
 Es impactante la historia que se relata y como fue tan ignorada, dando para pensar si no hay otras instituciones por ejemplo en nuestro país donde esté pasando algo similar y no nos hemos dado cuenta y eso se logra a través de la forma en que es presentada la información, especialmente al inicio del relato.
